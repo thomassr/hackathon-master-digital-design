@@ -1,5 +1,10 @@
 Install Visual Studio Code
 
+Upload this file to your Arduino:
+https://github.com/firmata/arduino/blob/master/examples/StandardFirmataPlus/StandardFirmataPlus.ino
+
+And change the usb port in `app.js`
+
 in your terminal navigate to the directory you want to use
 type : `git clone https://github.com/thomassr/hackathon-master-digital-design`
 
